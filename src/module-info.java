@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author timhd
+ *
+ */
+module BasicJava {
+}
